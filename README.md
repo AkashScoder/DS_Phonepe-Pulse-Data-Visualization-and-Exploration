@@ -73,7 +73,7 @@ The PhonePe pulse GitHub repository contains a vast collection of metrics and st
 
 2. **Run the Streamlit Dashboard**: Start the Streamlit server to view the live geo-visualization dashboard.
     ```bash
-    streamlit PhonePe visualization.py
+    streamlit run PhonePe visualization.py
     ```
 
 ## Examples
