@@ -66,17 +66,12 @@ The PhonePe pulse GitHub repository contains a vast collection of metrics and st
     - Update the database connection settings in the configuration file.
 
 ## Usage
-1. **Data Extraction**: Run the script to extract and clone data from the PhonePe pulse GitHub repository.
+1. **Data Extraction and transformation**: Run the script to extract and clone data from the PhonePe pulse GitHub repository and transform into a suitable format to be stored into SQL database.
     ```bash
     python cloning data from github.py
     ```
 
-2. **Data Transformation and Insertion**: Transform the extracted data and insert it into the MySQL database.
-    ```bash
-    python PhonePe visualization.py
-    ```
-
-3. **Run the Streamlit Dashboard**: Start the Streamlit server to view the live geo-visualization dashboard.
+2. **Run the Streamlit Dashboard**: Start the Streamlit server to view the live geo-visualization dashboard.
     ```bash
     streamlit PhonePe visualization.py
     ```
