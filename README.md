@@ -44,8 +44,9 @@ The PhonePe pulse GitHub repository contains a vast collection of metrics and st
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/PhonePe-Pulse-Data-Visualization.git
-    cd PhonePe-Pulse-Data-Visualization
+   git clone https://github.com/AkashScoder/DS_Phonepe-Pulse-Data-Visualization-and-Exploration.git
+   cd DS_Phonepe-Pulse-Data-Visualization-and-Exploration
+
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
