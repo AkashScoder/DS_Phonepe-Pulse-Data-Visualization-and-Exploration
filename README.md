@@ -7,9 +7,10 @@ The Phonepe pulse Github repository contains a vast collection of metrics and st
 1. Python
 2. MySQL
 3. Streamlit
-4. Github Cloning
-5. Geo Visualisation
-6. Dynamic Updation
+4. Plotly
+5. Github Cloning
+6. Geo Visualisation
+7. Dynamic Updation
 
 ## Approach:
 
