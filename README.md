@@ -34,7 +34,7 @@ The PhonePe pulse GitHub repository contains a vast collection of metrics and st
 3. **Database Integration**: The transformed data is inserted into a MySQL database, offering efficient storage and retrieval capabilities.
 4. **Live Geo Visualization Dashboard**: Python's Streamlit and Plotly libraries are utilized to create an interactive and visually appealing dashboard. This dashboard presents the data in real-time, enabling users to explore the insights effectively.
 5. **Database Integration with the Dashboard**: The relevant data is fetched from the MySQL database and seamlessly integrated into the dashboard, ensuring the displayed information is up-to-date and accurate.
-6. **User-Selectable Dropdown Options**: The dashboard incorporates a minimum of 10 distinct dropdown options, providing users with the ability to select and view various facts and figures of interest. This feature enhances the customization and flexibility of the dashboard.
+6. **User-Selectable Dropdown Options**: The dashboard incorporates various visualization options, providing users with the ability to select and view various facts and figures of interest. This feature enhances the customization and flexibility of the dashboard.
 
 ## Prerequisites
 - Python 3.6+
